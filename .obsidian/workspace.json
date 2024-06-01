@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "269dd9bde3f2506f",
@@ -166,11 +167,11 @@
   },
   "active": "e694087165e39893",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "AWS/Cloud Practitoner/3. Global Infrastructure & Reliability.md",
     "AWS/Cloud Practitoner/4. Networking.md",
+    "Untitled.canvas",
     "AWS/Cloud Practitoner/1. Introduction to AWS.md",
     "AWS/Cloud Practitoner/2. Compute in the cloud.md",
-    "AWS/Cloud Practitoner/3. Global Infrastructure & Reliability.md",
     "Welcome.md",
     "AWS/Cloud Practitoner/lecture 1.md",
     "AWS/Cloud Practitoner",
