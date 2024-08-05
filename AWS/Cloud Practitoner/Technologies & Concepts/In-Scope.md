@@ -16,7 +16,7 @@
 ### Amazon Managed Streaming for Apache Kafka (MSK)
 - **Apache Kafka** -> open source platform designed for building real time data pipelines and streaming applications
 - MSK takes the complexity out of managing Apache Kafka clusters by handling the operational aspects
-### Amazon OpenSearch Servi---ce
+### Amazon OpenSearch Service
 - **OpenSearch** -> open-source search and analytics engine derived from Elastisearch
 ### Amazon QuickSight
 - **Business Intelligence (BI)** -> turn data into actionable insights to help businesses make better decisions
@@ -188,16 +188,69 @@
 # migration & transfer
 ---
 # networking & content delivery
+### Amazon API Gateway
+- service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale
+### Amazon CloudFront
+- fast content delivery network (CDN) that delivers data to customers globally with low latency and high transfer speeds
+### AWS Direct Connect
+- service that makes it easy to establish a dedicated network connection from on-premises to AWS
+### AWS Global Accelerator
+- networking service that improves the availability and performance with global users 
+### Amazon Route 53
+- domain name system (DNS) web service designed to route end-user requests to applications
+### Amazon VPC
+- virtual private cloud allows you to provision a logically isolated section of the AWS cloud where you can launch AWS resources in a virtual network that you define
+### AWS VPN
+- enables you to establish a secure connection between on-premises network and AWS VPC
 ---
 # security, identity, & compliance
 ### AWS artifact
 - central resource for compliance-related information
 ### AWS Audit Manager
 - helps audit AWS usage to simplify how you assess risk and compliance with regulations and industry standards
+### AWS Certificate Manager
+- service that lets you easily provision, manage, and deploy public and private SSL/TLS certificates for use with AWS services and your internal connected resources
+### AWS CloudHSM (Hardware Security Module)
+- provides a secure environment for cryptographic key generation and storage
+### Amazon Cognito
+- service that simplifies the process of adding authentication, authorization, and user management to your web and mobile applications
+### Amazon Detective
+- analyzes and visualizes security data to investigate potential security issues
+- collects data from from CloudTrail, GuardDuty, etc, and processes data to build a comprehensive view of your resources and interactions
+### AWS Directory Service
+- **active directory** -> database for enterprise to look up people and resources in the company, manage permissions, policies, authentication, etc
+- enables you to use managed Active Directory in the AWS cloud
+### AWS Firewall Manager
+- allows you to centrally configure and manage firewall rules across your AWS accounts and applications
+### Amazon GuardDuty
+- threat detection service that monitors your AWS accounts and workloads for malicious activity and unauthorized behavior
+### AWS Identity & Access Management (IAM)
+- create and manage AWS users and groups, assign granular permissions, role based access control, and user federation
+### AWS IAM Identity Center (AWS Single Sign-On)
+- simplifies access management by allowing users to access multiple AWS accounts with a single set of credentials
+### Amazon Inspector
+- automated security assessment service that helps improve the security and compliance of applications deployed on AWS
+### AWS Key Management Service (KMS)
+- service that makes it easy to create and control cryptographic keys used to encrypt data
+### Amazon Macie
+- data security and data privacy service that uses ML to automatically discover, classify, and protect sensitive data
+### AWS Network Firewall
+- provides enhanced protection for your VPCs
+### AWS Resource Access Manager (RAM)
+- allows you to share AWS resources with other AWS accounts or within your organization
+### AWS Secrets Manager
+- secret manager, automatic rotation, secure access
+### AWS Security Hub
+- centralized security view, compliance monitoring, automated response
+### AWS Shield
+- DDoS protection service 
+### AWS WAF
+- protects web application from common web exploits and vulnerabilities
 ---
 # serverless
 ---
 # storage
+
 ---
 # summary
 ## analytics
