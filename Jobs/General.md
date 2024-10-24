@@ -1,7 +1,7 @@
 ## tell me about yourself
 - Back in high school I developed a passion for coding when I started tinkering with Minecraft code. This led me to pursue a degree in computer science which I recently obtained from Penn State.
 - Over my time there I received multiple awards, one of the most prominent being IEEE hack-at-thon where we had to solve a mixture of software and hardware problems. Also during this time, I worked on several project, including my favorite restaurant management system where I collaborated with a group of 4 to develop a solution for small scale restaurants.
-- Now I want to start my career as a software developer with the skills I have developed over time such as problem solving, detail oriented, and team work. Outside of work, I like to play hike, play soccer, and give back to the community that has helped me through my journey.
+- Now I want to start my career as a software developer with the skills I have developed over time such as problem solving, detail oriented, and team work. Outside of work, I like to hike, play soccer, and give back to the community that has helped me through my journey.
 ## describe a difficult challenge
 - One of the difficult challenges I faced was during my capstone project. Our team of four had split responsibilities, with two members focused on the frontend and my partner and I handling the backend. Initially, we took a relaxed approach to management, with everyone working at their own pace and only meeting once a week to discuss progress.
 - As the deadline approached, I completed my tasks while my teammates struggled to keep up, which left me feeling frustrated. Instead of expressing my annoyance, I decided to take the initiative by scheduling more frequent meetings and assigning specific tasks for each session.
@@ -23,3 +23,9 @@
 - During my capstone project, I worked on a restaurant management system. Although I was proud of it, it was very similar to other products such as DoorDash and UberEats. Our advisor provided critical feedback, suggesting we add voice command capability to make our project more unique.
 - Initially, I was uncertain about this direction, as it required us to learn natural language processing (NLP) and integrate speech to text services. However, I recognized the potential benefits and embraced the challenge. I took the lead in researching NLP and experimenting with voice commands.
 - This advice resulted in a standout application that not only differentiated us in a competitive market but also significantly enhanced the user experience. Not only that I also learned a few new things that I otherwise would have not learned.
+## biggest strength
+- I would consider flexibility to be my biggest strength. As a recent graduate, I am open to new opportunitiesI can fit into any mold the company wants me to, 
+## biggest weakness
+- I see my weaknesses as things I need to improve on, so the thing I need to improve the most on is public speaking. I tend to get nervous when addressing large audiences. I have taken public speaking course which has significantly improved my ability handle this anxiety. 
+## experience
+- Although I don't have professional experience relevant to this role, I've gained experience through my projects, particularly in developing restaurant management system and a stock tracking platform. These projects have given me insight into working in a team environment , the software development lifecycle, and various technologies relevant to this role such as [insert technologies]. 
