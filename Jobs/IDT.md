@@ -30,7 +30,7 @@
 
 ### tell me about your experiences?
 - I may not have PROFESSIONAL experience relevant to this role, but my projects has provided me with practical exposure to the technology stack used at your company. I'm passionate about learning and currently expanding my skills in cloud computing and other areas, which I believe will enable me to contribute more effectively from the outset.
-- I have gained valuable experience in retail and as a food delivery A. Technologies & Conceptsperson, i did not include them in the resume but I developed skills such as communication and time management from these experiences
+- I have gained valuable experience in retail and as a food delivery person, i did not include them in the resume but I developed skills such as communication and time management from these experiences
 
 ### biggest strength
 - i would consider flexibility to be one of my greatest strength, especially a a recent college graduate, I can fit into any mold the company wants me to. I believe my experiences living in different countries and learning new languages have taught me how to adapt quickly to new environments
