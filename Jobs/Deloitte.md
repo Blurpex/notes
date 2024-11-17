@@ -33,3 +33,17 @@
 - Tell me about a time you had disagreement?
 - Tell me about your projects you have worked on?
 #### round 2 (behavioral)
+- Tell me about yourself
+- Had to come up with something new or innovative
+- Dissatisfied about something
+- Prioritize or organize task/work
+- Disagreement or mismatch of opinions
+- How would you handle a client who is not interested in your presentation?
+#### round 2 (technical)
+- find an element in an unsorted array without brute force
+- containers
+- interfaces vs classes
+- loops
+- monitoring
+- debugging
+- software development lifecycle
